@@ -1,0 +1,20 @@
+[
+    {
+        "user_name": "Thomas",
+        "user_surname": "Miller",
+        "user_age": 27,
+        "phone_number": "+494088292815",
+        "balance": 1500.0,
+        "password": "scrypt:32768:8:1$3xfJ4jRKF3k6Y5c0$e320bdec7ccbcf8e011f056b9f194a1cc6fce342bdbed1b94cca5c277545395bf15ce0818d720eec95bba9727cf4e3b73d7f0c69a39f864b0627bb84f5a06215",
+        "card_number": "7493-4113-5172-3214"
+    },
+    {
+        "user_name": "Robert",
+        "user_surname": "Davis",
+        "user_age": 31,
+        "phone_number": "+491048611832",
+        "balance": 2300.0,
+        "password": "scrypt:32768:8:1$sh2ENGxfD8H73MBm$7cff1d2a40fe3b05389d536107452659c0574b4fc26fdace25f3bb4e81e47b9e69042c01c895f76a6b0c941b69f1f445399909cd70da126cff03d9979b47b956",
+        "card_number": "5420-7379-4636-8180"
+    }
+]
