@@ -34,7 +34,7 @@ This is a CLI (Command Line Interface) CRUD (Create, Read, Update, Delete) progr
 
 To run the program, use the following command:
 ```bash
-python bank_account_cli.py
+python bank_system.py
 ```
 
 ## License
