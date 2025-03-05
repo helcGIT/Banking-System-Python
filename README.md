@@ -1,5 +1,7 @@
 # Banking System Python
 
+> **My personal project from scratch, with zero experience in IT companies.**
+
 This is a CLI (Command Line Interface) CRUD (Create, Read, Update, Delete) program written in Python that simulates a banking system. It allows users to create, read, update, delete, deposit and withdraw money. All passwords are hashed, even the admin has no access to users' passwords, reinforcing top-tier security standards. All users information are storaged in JSON file, included passwords (hashed passwords with generate_has_password() function from werkzeug.security library) The program uses libraries such as `re`, `string`, `random`, `werkzeug.security`, and `json`.
 
 ## Features
